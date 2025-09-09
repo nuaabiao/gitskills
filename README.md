@@ -1,2 +1,3 @@
 Creating a new branch is quick & simple.
-scs
+scs.
+bug branch.
